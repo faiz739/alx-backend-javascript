@@ -1,6 +1,4 @@
-
-ES6 promise
-rt default class HolbertonClass {
+export default class HolbertonClass {
   constructor(size, location) {
     this._size = size;
     this._location = location;
